@@ -34,6 +34,7 @@ The goal was to understand how password-protected files store credentials as has
 
 ## Flag Captured
 `nw{networkwalks_flag1_jtr_270521_1}`
-![John the Ripper Practical](screenshots/john-ripper.png)
+<img width="1243" height="930" alt="image" src="https://github.com/user-attachments/assets/010a725d-e207-4e2c-a20d-532290454e53" />
+
 ---
 *Part of the Networkwalks Academy Cybersecurity & Ethical Hacking training program – www.networkwalks.com*

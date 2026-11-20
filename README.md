@@ -35,6 +35,7 @@ The goal was to understand how password-protected files store credentials as has
 ## Flag Captured
 `nw{networkwalks_flag1_jtr_270521_1}`
 <img width="1243" height="930" alt="image" src="https://github.com/user-attachments/assets/010a725d-e207-4e2c-a20d-532290454e53" />
+<img width="1233" height="904" alt="image" src="https://github.com/user-attachments/assets/1c8b09dd-7c0a-4712-a3ee-35c660696063" />
 
 ---
 *Part of the Networkwalks Academy Cybersecurity & Ethical Hacking training program – www.networkwalks.com*
